@@ -3,6 +3,7 @@
 * [书籍]()
     * [读书](source/book/读书步骤.md)
     * [养成自律](source/book/养成自律.md)
+    * [比勤奋更重要的是思维](source/book/比勤奋更重要的是思维.md)    
 * [管理]()
     * [scrum](source/manage/scrum.md)
     * [立项流程](source/manage/立项流程.md)
